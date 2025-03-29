@@ -45,3 +45,4 @@ Lastly, [here's a great list of cool things for bash][awesome]. Definitely have 
 [powerline]: https://github.com/riobard/bash-powerline
 [bash]: https://github.com/awesome-lists/awesome-bash
 [pt]: https://github.com/microsoft/PowerToys#keyboard-manager
+[awesome]: https://github.com/awesome-lists/awesome-bash
